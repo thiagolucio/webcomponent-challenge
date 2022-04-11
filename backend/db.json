@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Ramon Couto",
+      "password": "123456",
+      "email": "ramon@gmail.com",
+      "cep": "88099-099"
+    },
+    {
+      "id": 2,
+      "title": "Mudando o titulo do post",
+      "author": "Jameson Vacina"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
