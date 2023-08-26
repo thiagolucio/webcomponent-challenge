@@ -17,7 +17,7 @@ class Slides extends HTMLElement {
     }
 
     connectedCallback() {
-        this.shadowRoot.querySelector("h1").innerHTML = "SLIDES FODAS";        
+        this.shadowRoot.querySelector("h1").innerHTML = "SLIDES";        
     }
 }
 
